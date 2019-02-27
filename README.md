@@ -16,7 +16,7 @@ The project goal is to get acquainted with the technologies of development of We
 <h2>Directory Structure</h2>
  <ul>
  <li>Publish - folder with .zip compressed ASP.NET project</li>
- <li>Preview - folder cntains images used by repository</li>
+ <li>Preview - folder contains images used by repository</li>
  </ul> 
 <h2>Files</h2>
 <p><strong>Vagrantfile</strong> - configuration file for Vagrant orcestration engine for automatic deploy of different virtual environements.</p>
