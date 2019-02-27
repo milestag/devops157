@@ -1,6 +1,6 @@
 <h1>DevOps - SoftServe study program</h1>
 <hline>
-<h2>Prject description</h2>
+<h2>Project description</h2>
 This project is a DevOps-157 presentation page, developed with Microsoft ASP.NET application for Demo1 DevOps Windows study programm by SoftServe company. Page represents information about course, technoligies, students and company. Page use MSSQL database engine to store and render "Students list".
 <hline>
 <h2>Goals</h2>
@@ -8,12 +8,16 @@ The project goal is to get acquainted with the technologies of development of We
   <hline>
 <h2>Tools</h2>
     <ul>
-      <li>Microsoft Visual Studio 2017 ver.</li>
+      <li>Microsoft Visual Studio Community 2017 ver.15.9.7</li>
       <li>Vagrant 2.2.3 by HashiCorp</li>
       <li>VirtualBox 5.2.26 r128414 (Qt5.6.2) by Oracle</li>
       </ul>
       <hline>
-<h2>Tools</h2>
+<h2>Directory Structure</h2>
+ <ul>
+ <li>Publish - folder with .zip compressed ASP.NET project</li>
+ <li>Preview - folder cntains images used by repository</li>
+ </ul> 
 <h2>Files</h2>
 <p><strong>Vagrantfile</strong> - configuration file for Vagrant orcestration engine for automatic deploy of different virtual environements.</p>
 <p>Usage:</p>
