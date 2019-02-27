@@ -32,6 +32,7 @@ The project goal is to get acquainted with the technologies of development of We
   <li>1.1 Install Virtualbox software from "https://www.virtualbox.org/wiki/Downloads";
   <li>2. Copy file "Vagrantfile" to you future virtual environement project directory. For example "D:\VM01";</li>
   <li>3. Copy files: "cope.ps1", "dbattach.sql"	to you Vagrant project directory;</li>
-  <li>4. Execute PowerShell command "Vagrant up" from target directory. Example "D:\VM01\Vagrant up";</li>
-  <li>5. Wait for Vagrant engine downlad virtualbox instances, install, run end provision them with provisioning script. Make some  coffe, you have at least 30-40 min.</li>
+  <li>4. Download Project file "Publish.zip" From Github repo url "https://github.com/milestag/devops157/blob/master/Publish/Publish.zip" to Vagrant project directory;</li>
+  <li>5. Execute PowerShell command "Vagrant up" from target directory. Example "D:\VM01\Vagrant up";</li>
+  <li>6. Wait for Vagrant engine downlad virtualbox instances, install, run end provision them with provisioning script. Make some  coffe, you have at least 30-40 min.</li>
   </ul>
