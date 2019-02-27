@@ -21,7 +21,9 @@ The project goal is to get acquainted with the technologies of development of We
  </ul> 
 <h2>Files</h2>
 <p><strong>Vagrantfile</strong> - configuration file for Vagrant orcestration engine for automatic deploy of different virtual environements.</p>
-<p>Usage:</p>
+<p><strong>dbattach.sql</strong> - External SQL script for attaching MSSQL Database at deployment environement.</p>
+<hline>
+<h2>Usage:</h2>
 <ul>
   <li>1. Install Vagrant engine from "https://www.vagrantup.com/";</li> 
   <li>2. Copy file "Vagrantfile" to you future virtual environement project directory. Then execute command "Vagrant up" from target    directory. Example "D:\VM01\Vagrant up";</li>
