@@ -29,6 +29,7 @@ The project goal is to get acquainted with the technologies of development of We
 <ul>
   
   <li>1. Install Vagrant engine from "https://www.vagrantup.com/";</li>
+  <li>1.1 Install Virtualbox software from "https://www.virtualbox.org/wiki/Downloads";
   <li>2. Copy file "Vagrantfile" to you future virtual environement project directory. For example "D:\VM01";</li>
   <li>3. Copy files: "cope.ps1", "dbattach.sql"	to you Vagrant project directory;</li>
   <li>4. Execute PowerShell command "Vagrant up" from target directory. Example "D:\VM01\Vagrant up";</li>
