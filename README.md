@@ -39,3 +39,7 @@ The project goal is to get acquainted with the technologies of development of We
   </ul>
 <hline>
 <h2>Deployment diagram</h2>
+
+<hline>
+<h2>Summary</h2>
+  
