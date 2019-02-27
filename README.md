@@ -1,8 +1,10 @@
 <h1>DevOps - SoftServe study program</h1>
 <hline>
-<h2>Description</h2>
-This project is a DevOps-157 presentation page, developed for Demo1 DevOps Windows study programm by SoftServe company. Page represents information about course, technoligies, students and company. Page use MSSQL database engine to store and render "Students list".
+<h2>Prject description</h2>
+This project is a DevOps-157 presentation page, developed with Microsoft ASP.NET application for Demo1 DevOps Windows study programm by SoftServe company. Page represents information about course, technoligies, students and company. Page use MSSQL database engine to store and render "Students list".
 <hline>
+<h2>Goals</h2>
+The project goal is to get acquainted with the technologies of development of Web applications on the Windows platform. Automate the creation of environments to run applications based on Windows 2018-2018 Server platform. Setting up the environment for application deployment, including IIS Web Server configuration, MSSQL Server and others.
 <h2>Files</h2>
 <p><strong>Vagrantfile</strong> - configuration file for Vagrant orcestration engine for automatic deploy of different virtual environements.</p>
 <p>Usage:</p>
