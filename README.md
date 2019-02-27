@@ -1,8 +1,9 @@
-<h1>DevOps - SoftServe study programm</h1>
+<h1>DevOps - SoftServe study program</h1>
 <hline>
 <h2>Description</h2>
-The files listed below are goal for first training Demo for DevOps Windows study programm by SoftServe company.
-<h1>Files Description</h1>
+This project is a DevOps-157 presentation page, developed for Demo1 DevOps Windows study programm by SoftServe company. Page represents information about course, technoligies, students and company.
+<hline>
+<h2>Files Description</h2>
 
 <p><strong>Vagrantfile</strong> - configuration file for Vagrant orcestration engine for automatic deploy of different virtual environements.</p>
 <p>Usage:</p>
