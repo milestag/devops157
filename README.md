@@ -1,10 +1,9 @@
 <h1>DevOps - SoftServe study program</h1>
 <hline>
 <h2>Description</h2>
-This project is a DevOps-157 presentation page, developed for Demo1 DevOps Windows study programm by SoftServe company. Page represents information about course, technoligies, students and company.
+This project is a DevOps-157 presentation page, developed for Demo1 DevOps Windows study programm by SoftServe company. Page represents information about course, technoligies, students and company. Page use MSSQL database engine to store and render "Students list".
 <hline>
-<h2>Files Description</h2>
-
+<h2>Files</h2>
 <p><strong>Vagrantfile</strong> - configuration file for Vagrant orcestration engine for automatic deploy of different virtual environements.</p>
 <p>Usage:</p>
 <ul>
