@@ -42,4 +42,5 @@ The project goal is to get acquainted with the technologies of development of We
 
 <hline>
 <h2>Summary</h2>
+Globally we have started environment based on Windows 2016 Server, with installed MSSQL Database Server 2014, Internet Information Services Web Server, Chocolate packet manager. Provision script create and config new web site bind to ip adress 192.168.56.10. Windows user credentials: Vagrant@vagrant.
   
