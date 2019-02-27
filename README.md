@@ -23,11 +23,14 @@ The project goal is to get acquainted with the technologies of development of We
 <p><strong>Vagrantfile</strong> - configuration file for Vagrant orcestration engine for automatic deploy of different virtual environements.</p>
 <p><strong>dbattach.sql</strong> - External SQL script for attaching MSSQL Database at deployment environement.</p>
 <p><strong>cope.ps1</strong> - External PowerShell script for provision virtual environment, installing missing tools, software and configure them using indepotential principals.</p>
-<p><strong>deploy.bat</strong> - EXAMLE of External PowerShell script to run seamless deployment process of application recendly build and published by Visua Studio.</p>
+<p><strong>deploy.bat</strong> - EXAMLE of External PowerShell script to run seamless deployment process of application recently build and published by Visua Studio.</p>
 <hline>
 <h2>Usage:</h2>
 <ul>
-  <li>1. Install Vagrant engine from "https://www.vagrantup.com/";</li> 
-  <li>2. Copy file "Vagrantfile" to you future virtual environement project directory. Then execute command "Vagrant up" from target    directory. Example "D:\VM01\Vagrant up";</li>
-  <li>3. Wait for Vagrant engine downlad virtualbox instances, install, run end provision them eith provisioning script. Make some coffe, you have at least 30-40 min.</li>
+  
+  <li>1. Install Vagrant engine from "https://www.vagrantup.com/";</li>
+  <li>2. Copy file "Vagrantfile" to you future virtual environement project directory. For example "D:\VM01";</li>
+  <li>3. Copy files: "cope.ps1", "dbattach.sql"	to you Vagrant project directory;</li>
+  <li>4. Execute PowerShell command "Vagrant up" from target directory. Example "D:\VM01\Vagrant up";</li>
+  <li>5. Wait for Vagrant engine downlad virtualbox instances, install, run end provision them with provisioning script. Make some  coffe, you have at least 30-40 min.</li>
   </ul>
