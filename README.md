@@ -22,6 +22,8 @@ The project goal is to get acquainted with the technologies of development of We
 <h2>Files</h2>
 <p><strong>Vagrantfile</strong> - configuration file for Vagrant orcestration engine for automatic deploy of different virtual environements.</p>
 <p><strong>dbattach.sql</strong> - External SQL script for attaching MSSQL Database at deployment environement.</p>
+<p><strong>cope.ps1</strong> - External PowerShell script for provision virtual environment, installing missing tools, software and configure them using indepotential principals.</p>
+<p><strong>deploy.bat</strong> - EXAMLE of External PowerShell script to run seamless deployment process of application recendly build and published by Visua Studio.</p>
 <hline>
 <h2>Usage:</h2>
 <ul>
