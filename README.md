@@ -1,7 +1,7 @@
 # devops157
-<h1>DevOPS157 - SoftServe study programm<h1>
+<h1>DevOPS157 - SoftServe study programm</h1>
 <hline>
-
+<h2>Description</h2>
 The files listed below are goal for first training Demo for DevOps Windows study programm by SoftServe company.
 <h1>Files Description</h1>
 
