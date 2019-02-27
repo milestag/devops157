@@ -35,4 +35,7 @@ The project goal is to get acquainted with the technologies of development of We
   <li>4. Download Project file "Publish.zip" From Github repo url "https://github.com/milestag/devops157/blob/master/Publish/Publish.zip" to Vagrant project directory;</li>
   <li>5. Execute PowerShell command "Vagrant up" from target directory. Example "D:\VM01\Vagrant up";</li>
   <li>6. Wait for Vagrant engine downlad virtualbox instances, install, run end provision them with provisioning script. Make some  coffe, you have at least 30-40 min.</li>
+  <li>7. Wait for end of deployment process and check the result using yur favorite web browser at ip adress: 192.168.56.10;</li>
   </ul>
+<hline>
+<h2>Deployment diagram</h2>
